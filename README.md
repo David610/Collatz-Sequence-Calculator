@@ -1,6 +1,5 @@
 # Collatz-Sequence-Calculator
 
-```markdown
 # Optimized MIPS Collatz Sequence Generator
 
 ## Overview
